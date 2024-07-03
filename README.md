@@ -11,6 +11,9 @@
 <div>
   <img style="margin:10px" src="./2.png" alt="drawing"/>
 </div>
+<div>
+  <img style="margin:10px" src="./8.png" alt="drawing"/>
+</div>
 然后下载FinalShell连接你的虚拟器
 
 下载地址（windows版本）是：http://www.hostbuf.com/downloads/finalshell_windows_x64.exe
@@ -54,5 +57,8 @@ sudo systemctl status firewalld
 然后去地址测一下你的IP是否正常,输入你购买的服务器IP，如果显示ip不行可以退款，1天内可以退款，然后重新买，地址是：http://www.ipjiance.com
 <div>
   <img style="margin:10px" src="./4.png" alt="drawing"/>
+</div>
+<div>
+  <img style="margin:10px" src="./9.png" alt="drawing"/>
 </div>
 
