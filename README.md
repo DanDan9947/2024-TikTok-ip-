@@ -152,6 +152,6 @@ sudo systemctl status firewalld
   <img style="margin:10px" src="./9.png" alt="drawing"/>
 </div>
 <div>
-  <img style="margin:10px" src="./4.png" alt="drawing"/>
+  <img style="margin:10px" src="./14.png" alt="drawing"/>
 </div>
 
